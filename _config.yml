@@ -1,0 +1,13 @@
+remote_theme: marella/jekyll-theme-documentation
+#remote_theme: pawamoy/jekyll-readthedocs
+
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-minimal
+
+permalink: pretty
+nav:
+  - Home: ''
+  - Welcome to PEARC21 Tapis User Meeting: welcome/intro
+  - Tapis Demo
+
+theme: jekyll-theme-hacker
