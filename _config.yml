@@ -8,6 +8,12 @@ permalink: pretty
 nav:
   - Home: ''
   - Welcome to PEARC21 Tapis User Meeting: welcome/intro
-  - Tapis Demo
+  - Tapis V3 introduction and V2 changes: block1/TapisIntro
+  - Tapis V3 Demo: block1/demo
+  - User Stories A2CPS: block1/a2cps
+  - User Stories UH and Associate Sites: block1/uh_associate_site
+  - Tapis Roadmap: block1/roadmap
+  - Contributing to Tapis: block1/coc
+
 
 theme: jekyll-theme-hacker
