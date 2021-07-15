@@ -5,7 +5,7 @@ Welcome to PEARC21 Tapis User Meeting
 
 Please fill out this survey, all results are gathered anonymously 
 
-[Demographic Survey](http://bit.ly/tapis-survey) 
+[Demographic Survey]()
 
 ### Join Slack
 

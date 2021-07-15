@@ -1,4 +1,4 @@
-# PEARC 21 Tapis User Meeting 9:45AM -10:45AM PDT
+# PEARC 21 Tapis User Meeting
 
 ### Schedule (Pacific Time)
 * 9:45AM  - Overview of Tapis Functionality
