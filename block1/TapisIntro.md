@@ -8,6 +8,5 @@
 * Manage access to data and results through a fine-grained **permissions** model, so that digital assets can be **securely** shared  with colleagues or the community at large.
 
 
-[Tapis Introduction Slides](https://docs.google.com/presentation/d/16OmgiQ8N4s41yZFzddyZaqJVvma0ke4cvnTsbGysC4g/edit#slide=id.ge4e1aafc4e_0_8)
-
+[Tapis Introduction Slides](https://docs.google.com/presentation/d/16OmgiQ8N4s41yZFzddyZaqJVvma0ke4cvnTsbGysC4g/edit#slide=id.g75751f1ab3_0_139)
 
