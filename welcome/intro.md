@@ -1,12 +1,6 @@
 Welcome to PEARC21 Tapis User Meeting
 ===
 
-### Fill out the demographic information
-
-Please fill out this survey, all results are gathered anonymously 
-
-[Demographic Survey]()
-
 ### Join Slack
 
 Please join the TACC Cloud Slack:
