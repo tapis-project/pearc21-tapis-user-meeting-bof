@@ -17,3 +17,12 @@
 * Anagha Jamthe (Texas Advanced Computing Center)
 
 
+Tapis Core Team:
+* Steve Black
+* Richard Cardone
+* Smruti Padhy
+* Joseph Meiring
+* Steve Terry
+* Julia Looney
+* Christian Garcia
+
