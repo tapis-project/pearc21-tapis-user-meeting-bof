@@ -17,4 +17,12 @@
 * Sean Cleveland (University of Hawaii)
 
 
+### Tapis Core Team:
+* Steve Black
+* Richard Cardone
+* Smruti Padhy
+* Joseph Meiring
+* Steve Terry
+* Christian Garcia
+* Julia Looney
 
