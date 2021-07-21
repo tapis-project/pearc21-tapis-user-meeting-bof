@@ -12,9 +12,8 @@
 ### Presenters
 * Joe Stubbs (Texas Advanced Computing Center)
 * Joon Yee Chuah (Texas Advanced Computing Center)
-* Matt Vaughn  (Texas Advanced Computing Center)
-* Richard Cardone (Texas Advanced Computing Center)
 * Sean Cleveland (University of Hawaii)
-
+* Matthew Vaughn  (Texas Advanced Computing Center)
+* Anagha Jamthe (Texas Advanced Computing Center)
 
 
